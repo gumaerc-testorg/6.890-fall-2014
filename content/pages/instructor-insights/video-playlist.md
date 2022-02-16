@@ -2,7 +2,10 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 71669fcb-a026-0ef2-3695-59a40f4c0bb8
 title: Video Playlist
 uid: 57c3ad93-07f3-43fc-8536-5b84cc2b310b

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: ETH and Planar FPT'
 uid: a4b51ec6-a2d0-179f-d1f7-7cbf7f2da949
 video_files:
   archive_url: https://archive.org/download/MIT6.890F14/MIT6_890F14_lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/5ea2b5a6f60e59bf88ec5d6a50334e20_ctxnYDAIDO4.vtt
+  video_captions_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/5ea2b5a6f60e59bf88ec5d6a50334e20_ctxnYDAIDO4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ctxnYDAIDO4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/2e2f2f5755442b3942cf9cf7c780abcb_ctxnYDAIDO4.pdf
+  video_transcript_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/2e2f2f5755442b3942cf9cf7c780abcb_ctxnYDAIDO4.pdf
 video_metadata:
   youtube_id: ctxnYDAIDO4
 ---

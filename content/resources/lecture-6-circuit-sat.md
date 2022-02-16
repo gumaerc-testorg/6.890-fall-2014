@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Circuit SAT'
 uid: 98d28881-f924-064e-398e-644c735c49bf
 video_files:
   archive_url: https://archive.org/download/MIT6.890F14/MIT6_890F14_lec06_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/7480dcab40c55ed3a64c78187543b572_ziViLYrf1Ak.vtt
+  video_captions_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/7480dcab40c55ed3a64c78187543b572_ziViLYrf1Ak.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ziViLYrf1Ak/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/d31100411b981d21625aae116b68a0c9_ziViLYrf1Ak.pdf
+  video_transcript_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/d31100411b981d21625aae116b68a0c9_ziViLYrf1Ak.pdf
 video_metadata:
   youtube_id: ziViLYrf1Ak
 ---

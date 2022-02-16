@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Planar SAT'
 uid: bf66955f-dacf-05d8-0882-cf41944bc1d2
 video_files:
   archive_url: https://archive.org/download/MIT6.890F14/MIT6_890F14_lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/e355c24e7d9c598ba389e502507a0722_KU8I8LjnQgE.vtt
+  video_captions_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/e355c24e7d9c598ba389e502507a0722_KU8I8LjnQgE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KU8I8LjnQgE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/d42884beef5e3693cdd0df10cb010102_KU8I8LjnQgE.pdf
+  video_transcript_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/d42884beef5e3693cdd0df10cb010102_KU8I8LjnQgE.pdf
 video_metadata:
   youtube_id: KU8I8LjnQgE
 ---

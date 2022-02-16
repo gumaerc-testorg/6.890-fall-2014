@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: PPAD'
 uid: fb70f145-c737-1307-6126-1830a5ceae7d
 video_files:
   archive_url: https://archive.org/download/MIT6.890F14/MIT6_890F14_lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/3484ca334358590e85ddb8ea1006e638_TUbfCY_8Dzs.vtt
+  video_captions_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/3484ca334358590e85ddb8ea1006e638_TUbfCY_8Dzs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/TUbfCY_8Dzs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/28bba424da898c3623d82cbf6e7bbf94_TUbfCY_8Dzs.pdf
+  video_transcript_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/28bba424da898c3623d82cbf6e7bbf94_TUbfCY_8Dzs.pdf
 video_metadata:
   youtube_id: TUbfCY_8Dzs
 ---

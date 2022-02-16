@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Undecidable and P-Complete'
 uid: 7f8695a9-0f3c-7031-5b60-8ee27e20518d
 video_files:
   archive_url: https://archive.org/download/MIT6.890F14/MIT6_890F14_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/817353694baf50718943b87d626f728f_LHBc2mE71yc.vtt
+  video_captions_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/817353694baf50718943b87d626f728f_LHBc2mE71yc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/LHBc2mE71yc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/45501cc1a964e91dae39a1cd00ce7233_LHBc2mE71yc.pdf
+  video_transcript_file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/45501cc1a964e91dae39a1cd00ce7233_LHBc2mE71yc.pdf
 video_metadata:
   youtube_id: LHBc2mE71yc
 ---
