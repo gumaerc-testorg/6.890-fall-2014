@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: PPAD Reductions'
 uid: b8527df2-0719-9365-98fc-9d45dd6be3e0
 video_files:
@@ -27,3 +30,6 @@ video_metadata:
 **Instructor:** Erik Demaine and Constantinos Daskalakis.
 
 A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L23.html) is available.
+
+
+

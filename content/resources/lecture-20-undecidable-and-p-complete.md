@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Undecidable and P-Complete'
 uid: 7f8695a9-0f3c-7031-5b60-8ee27e20518d
 video_files:
@@ -27,3 +30,6 @@ video_metadata:
 **Instructor:** Erik Demaine
 
 A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L20.html) is available.
+
+
+

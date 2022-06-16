@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: 3SUM and APSP Hardness'
 uid: 4337df9a-bd1c-54d4-a6e6-2a4d83476e40
 video_files:
@@ -27,3 +30,6 @@ video_metadata:
 **Instructor:** Erik Demaine
 
 A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L21.html) is available [**here**](http://courses.csail.mit.edu/6.890/fall14/lectures/L21.html).
+
+
+

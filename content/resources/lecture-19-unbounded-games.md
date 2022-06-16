@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Unbounded Games'
 uid: 14ae72c8-4e17-f6b3-51d6-77196496838c
 video_files:
@@ -27,3 +30,6 @@ video_metadata:
 **Instructor:** Erik Demaine
 
 A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L19.html) is available.
+
+
+
