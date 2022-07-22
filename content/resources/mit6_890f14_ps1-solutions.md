@@ -5,6 +5,7 @@ file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class on Algorithmic Lower Bounds and Hardness Proofs, Problem Set 1 Solu
 uid: b1e6726e-65c3-923a-5c8d-e9338291d046
 ---
 This resource contains information related to problem set 1 solutions.
-
