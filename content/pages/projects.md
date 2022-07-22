@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the final project for the course,
+  the project proposal, and final project policies.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: b72296b4-3181-90a2-46a0-f918bfa6bc31
 ---
