@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/b3135802d9193e6d50c3f4e03d973e15_LHBc2mE71yc.srt
+file_size: 122120
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
