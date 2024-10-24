@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/52b7d1028498423d9bdbe763edeeec0f_P3YoIxiz6to.srt
+file: /ol-ocw-studio-app/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/52b7d1028498423d9bdbe763edeeec0f_P3YoIxiz6to.srt
 file_size: 110983
 file_type: application/x-subrip
 learning_resource_types: []
