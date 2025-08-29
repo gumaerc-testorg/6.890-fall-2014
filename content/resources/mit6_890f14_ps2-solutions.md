@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 2 solutions.
-file: /courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/c084c158d5d3585a2111cb1d6cea80a0_MIT6_890F14_ps2-solutions.pdf
+file: /ol-ocw-studio-app/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/c084c158d5d3585a2111cb1d6cea80a0_MIT6_890F14_ps2-solutions.pdf
 file_size: 228384
 file_type: application/pdf
 learning_resource_types:
