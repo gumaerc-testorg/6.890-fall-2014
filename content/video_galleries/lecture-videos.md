@@ -35,7 +35,7 @@ videos:
   website: 6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014
 ---
 
-The lecture videos are also available an integrated format (synced notes, slides, and video) on [Prof. Demaine's website for _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs_](http://courses.csail.mit.edu/6.890/fall14/lectures/).
+The lecture videos are also available an integrated format (synced notes, slides, and video) on {{% resource_link "2c58552d-0c2b-4e2e-bdd1-ebbe38ac4c19" "Prof. Demaine's website for _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs_" %}}.
 
 {{< video-gallery "2c7379a0-8453-1683-a6c1-fa98b615da31" >}}
 

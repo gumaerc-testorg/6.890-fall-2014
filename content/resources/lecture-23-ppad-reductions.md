@@ -31,5 +31,5 @@ video_metadata:
 
 **Instructor:** Erik Demaine and Constantinos Daskalakis.
 
-A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L23.html) is available.
+A {{% resource_link "b978b858-1661-4707-89ef-1942a60e9458" "video player with synced slides and lecture notes" %}} is available.
 
