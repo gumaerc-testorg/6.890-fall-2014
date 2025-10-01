@@ -31,5 +31,5 @@ video_metadata:
 
 **Instructor:** Erik Demaine
 
-A [video player with synced slides and lecture notes](http://courses.csail.mit.edu/6.890/fall14/lectures/L11.html) is available.
+A {{% resource_link "55bb906d-4b2b-454d-9bb6-60d20f29fd85" "video player with synced slides and lecture notes" %}} is available.
 
